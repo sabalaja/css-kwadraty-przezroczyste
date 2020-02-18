@@ -1,0 +1,28 @@
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+}
+div {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: 5px 0;
+}
+.one {
+    opacity: 1;
+}
+.two {
+    opacity: 0.8;
+}
+.tree {
+    opacity: 0.6;
+}
+.four {
+    opacity: 0.2;
+}
